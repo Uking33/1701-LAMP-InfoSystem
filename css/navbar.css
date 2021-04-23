@@ -1,0 +1,15 @@
+body {
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+#container{
+	width: 800px;
+	margin:auto;
+}
+.navbar {
+	margin-bottom: 20px;
+}
+
+.navbar-nav{
+	float: right;
+}
